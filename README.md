@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Thiti</h1>
-<h3 align="center">A passionate DevOps Engineer from Thailand.</h3>
+<h1 align="center">Hi 👋, I'm Thiti Ouengcharoen.</h1>
+<h3 align="center">A passionate DevOps Engineer an also an information technology students at KMUTT</h3>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bxnovert" alt="bxnovert" /></a> </p>
 
 - 📫 How to reach me **thiti.ouengcharoen@mail.kmutt.ac.th**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
 <a href="https://fb.com/bbenjmn01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bbenjmn01" height="30" width="40" /></a>
 <a href="https://instagram.com/bxnovert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bxnovert" height="30" width="40" /></a>
 </p>
